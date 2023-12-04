@@ -29,7 +29,7 @@
 
 <h3> DEPLOY TO HEROKU </h3>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?tempate=https://github.com/ARUN-GOUDA-147/MR_ERROR_147)
 
 
 ### Official Supports
